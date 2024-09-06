@@ -26,9 +26,9 @@ from style import Ashu
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN
+    api_id=21827228,
+    api_hash=306c60a42c7b0d6b706c91beab097483,
+    bot_token=6991697056:AAGwBuc9l1hY4l_YFVHBLd60nMMca3kuBoA
 )
 
 # Define aiohttp routes
